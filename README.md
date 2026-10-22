@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsskiwee/itsskiwee/output/snake.svg" width="100%" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/itsskiwee/itsskiwee/refs/heads/output/snake.svg" width="100%" alt="contribution snake" />
 </p>
 
 <p align="center"><sub><code>[ connection closed by remote host ]</code></sub></p>
