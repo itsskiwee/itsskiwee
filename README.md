@@ -1,33 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate Cybersecurity student from Canada</h3>
+<div align="center">
 
-- 🔭 I’m currently working with Antaraloka on a **Platform**
+<img src="assets/header.svg" width="100%" alt="itsskiwee" />
 
-- 🌱 I’m currently learning **React, Rust, Ruby, Aws, and more**
+<br />
 
-- 👯 I’m looking to collaborate on **Websites, Cybersecurity, Opsec**
+<a href="https://norysr.com"><img src="https://img.shields.io/badge/norysr.com-0a0e14?style=for-the-badge&logo=googlechrome&logoColor=39ff14" alt="norysr.com" /></a> <a href="https://substack.com/@itsskiweee1"><img src="https://img.shields.io/badge/substack-0a0e14?style=for-the-badge&logo=substack&logoColor=39ff14" alt="Substack" /></a> <a href="https://www.youtube.com/@astryneee"><img src="https://img.shields.io/badge/youtube-0a0e14?style=for-the-badge&logo=youtube&logoColor=39ff14" alt="YouTube" /></a> <a href="https://instagram.com/itsskiweee"><img src="https://img.shields.io/badge/instagram-0a0e14?style=for-the-badge&logo=instagram&logoColor=39ff14" alt="Instagram" /></a> <a href="mailto:ryan.rawal43@gmail.com"><img src="https://img.shields.io/badge/email-0a0e14?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Email" /></a>
 
-- 🤝 I’m looking for help with **Cybersecurity, Offesive Security, Defensive Security**
+<img src="https://komarev.com/ghpvc/?username=itsskiwee&label=visitors&color=39ff14&style=flat-square" alt="visitors" />
 
-- 👨‍💻 All of my projects are available at [(coming soon)]((coming soon))
+</div>
 
-- 📝 I regularly write articles on [https://substack.com/@itsskiweee1?utm_source=user-menu](https://substack.com/@itsskiweee1?utm_source=user-menu)
+### `$ whoami`
 
-- 💬 Ask me about **Rust, Html, Css**
+<img src="assets/terminal.svg" width="100%" alt="whoami: Ryan Rawal, cybersecurity student in Canada, co-founder and researcher at Norysr" />
 
-- 📫 How to reach me **ryan.rawal43@gmail.com**
+### `$ ls ~/projects`
 
-- 📄 Know about my experiences [(coming soon)]((coming soon))
+<table>
+  <tr>
+    <td width="50%"><a href="https://norysr.com"><img src="assets/card-norysr.svg" width="100%" alt="Norysr / Nanomax: research on small, auditable models of the body's sensory and motor signals" /></a></td>
+    <td width="50%"><img src="assets/card-antaraloka.svg" width="100%" alt="Antaraloka: platform, currently building" /></td>
+  </tr>
+</table>
 
-- ⚡ Fun fact **I think I know how to code, but its just a bunch of chatgpt**
+### `$ cat ~/.stack`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ryan rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan rawal" height="30" width="40" /></a>
-<a href="https://instagram.com/itsskiweee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsskiweee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@astryneee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@astryneee" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,py,ts,react,nextjs,tailwind,ruby,bash,linux,arch,docker,postgres,pytorch,aws,git,html,css,blender,arduino&perline=10" alt="stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img 
+### `$ ./stats --live`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsskiwee&show_icons=true&hide_rank=true&hide_border=true&bg_color=0a0e14&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsskiwee&layout=compact&hide_border=true&bg_color=0a0e14&title_color=39ff14&text_color=c9d1d9" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itsskiwee&hide_border=true&background=0a0e14&ring=39ff14&fire=39ff14&currStreakNum=39ff14&currStreakLabel=39ff14&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=30363d" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsskiwee/itsskiwee/output/snake.svg" width="100%" alt="contribution snake" />
+</p>
+
+<p align="center"><sub><code>[ connection closed by remote host ]</code></sub></p>
