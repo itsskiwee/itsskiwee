@@ -6,7 +6,7 @@
 
 <a href="https://norysr.com"><img src="https://img.shields.io/badge/norysr.com-0a0e14?style=for-the-badge&logo=googlechrome&logoColor=39ff14" alt="norysr.com" /></a> <a href="https://substack.com/@itsskiweee1"><img src="https://img.shields.io/badge/substack-0a0e14?style=for-the-badge&logo=substack&logoColor=39ff14" alt="Substack" /></a> <a href="https://www.youtube.com/@astryneee"><img src="https://img.shields.io/badge/youtube-0a0e14?style=for-the-badge&logo=youtube&logoColor=39ff14" alt="YouTube" /></a> <a href="https://instagram.com/itsskiweee"><img src="https://img.shields.io/badge/instagram-0a0e14?style=for-the-badge&logo=instagram&logoColor=39ff14" alt="Instagram" /></a> <a href="mailto:ryan.rawal43@gmail.com"><img src="https://img.shields.io/badge/email-0a0e14?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=itsskiwee&label=visitors&color=39ff14&style=flat-square" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=itsskiwee&style=flat-square&color=39ff14&label=visitors" alt="visitors" />
 
 </div>
 
